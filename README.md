@@ -1,2 +1,2 @@
-# collective_intelligence_note
-note of reading Programming Collective Intelligence
+# collective_intelligence_notes
+notes of reading Programming Collective Intelligence
