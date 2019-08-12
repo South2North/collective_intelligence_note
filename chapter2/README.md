@@ -1,0 +1,2 @@
+- 貌似del.icio.us的API已经关闭了，所以省略了部分内容。
+- 剩下的都在`sim_metrics.ipynb`文件中用python3实现了，`recommendations.py`仅用于提供critics字典。
